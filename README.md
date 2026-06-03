@@ -37,7 +37,7 @@ current_focus: 用代码解决生活中的实际问题
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xueayi&theme=tokyonight&hide_border=true&locale=zh_Hans" />
+  <img src="https://streak-stats.demolab.com/?user=xueayi&theme=tokyonight&hide_border=true&locale=zh_Hans" />
 </div>
 
 ## &#x1f31f; 精选项目
