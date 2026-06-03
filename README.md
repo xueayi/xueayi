@@ -32,12 +32,17 @@ current_focus: 用代码解决生活中的实际问题
 ## &#x1f4ca; GitHub 统计
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xueayi&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xueayi&layout=compact&theme=tokyonight&hide_border=true&locale=cn" />
+  <img height="170" src="https://raw.githubusercontent.com/xueayi/xueayi/output/profile-summary-card-output/tokyonight/0-profile-details.svg" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=xueayi&theme=tokyonight&hide_border=true&locale=zh_Hans" />
+  <img height="170" src="https://raw.githubusercontent.com/xueayi/xueayi/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img height="170" src="https://raw.githubusercontent.com/xueayi/xueayi/output/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://raw.githubusercontent.com/xueayi/xueayi/output/profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="170" src="https://raw.githubusercontent.com/xueayi/xueayi/output/profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </div>
 
 ## &#x1f31f; 精选项目
